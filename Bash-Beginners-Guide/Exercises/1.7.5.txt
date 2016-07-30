@@ -1,0 +1,3 @@
+Can you explain why bash does not exit when you type Ctrl+C on the command line?
+
+Bash uses traps to catch the CTRL+C command.

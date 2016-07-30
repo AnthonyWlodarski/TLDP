@@ -1,0 +1,10 @@
+Which shell configuration files are read when you login to your system using the graphical user interface and then opening a terminal window?
+
+Interactive login shell:
+1.) /etc/profile if it exists
+2.) ~/.bash_profile
+3.) ~/.bash_login
+4.) ~/.profile
+
+Interactive non-login shell:
+1.) ~/.bashrc
